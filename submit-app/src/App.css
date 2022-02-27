@@ -1,0 +1,15 @@
+#username-form {
+  width: 30rem;
+  max-width: 90%;
+  margin: 5rem auto;
+  padding: 2rem;
+  box-shadow: 0 7px 12px rgba(0, 0, 0, 0.7);
+  background-color: white;
+  border-radius: 5px;
+}
+
+#person-label {
+  width: 40rem;
+  max-width: 90%;
+  margin: auto;
+}
